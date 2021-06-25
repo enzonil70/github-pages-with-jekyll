@@ -9,4 +9,4 @@ title:  "Welcome to Jekyll!"
 
 I hope you like it!
 
-post inidcated of personal resume
+post inidcated of personal resume CV
